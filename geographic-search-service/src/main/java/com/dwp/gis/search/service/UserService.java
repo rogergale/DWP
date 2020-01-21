@@ -41,7 +41,7 @@ public class UserService implements IUserService {
 
 	private void addUsersWithinRadius(String city, String radius, List<User> cityUsers, RestTemplate restTemplate,
 			List<User> allUsers) {
-		final String apiKey = "AIzaSyCiHipyj8fxvKIgIrEeiZXDQ5fh30CJu_8";
+		final String apiKey = "GoogleAPIKeyRequired";
 		String uriGoogleDistanceMatrix;
 		String latitude;
 		String longitude;
