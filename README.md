@@ -1,6 +1,6 @@
 # GCP
 
-Once this SpringBoot application is running please use the following URL from either a web browser or Postman as a GET request:
+Once this SpringBoot application (geographic-search-service) is running please use the following URL from either a web browser or Postman as a GET request:
 
 http://localhost:8181/geographicsearch/users/London/50
 
