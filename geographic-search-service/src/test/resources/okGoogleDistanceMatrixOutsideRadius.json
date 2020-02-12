@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "Unnamed Road, Foumban, Cameroon" ],
+   "origin_addresses" : [ "London, UK" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4,563 mi",
+                  "value" : 7343485
+               },
+               "duration" : {
+                  "text" : "4 days 4 hours",
+                  "value" : 360992
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
